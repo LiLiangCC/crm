@@ -13,3 +13,4 @@ test update02
 dev03
 fix from CuiCaoSYYF
 local update01
+github update01
